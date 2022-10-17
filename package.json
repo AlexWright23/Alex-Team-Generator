@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "bootstrap-icons": "^1.9.1",
+    "inquirer": "^8.2.4",
+    "jest": "^29.0.2"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "name": "team-gen",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexWright23/team-gen.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexWright23/team-gen/issues"
+  },
+  "homepage": "https://github.com/AlexWright23/team-gen#readme"
+}
